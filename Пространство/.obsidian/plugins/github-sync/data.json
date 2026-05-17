@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/rasulovtolib/java-backend-learning-portal.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
