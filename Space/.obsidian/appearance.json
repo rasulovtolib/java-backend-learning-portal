@@ -1,5 +1,7 @@
 {
   "theme": "moonstone",
   "cssTheme": "Rationale",
-  "interfaceFontFamily": "Arial"
+  "interfaceFontFamily": "",
+  "textFontFamily": "Inter",
+  "baseFontSize": 14
 }
