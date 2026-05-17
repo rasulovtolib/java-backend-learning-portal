@@ -1,9 +1,9 @@
 # Настройки рабочего пространства Obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
+Space/.obsidian/workspace.json
+Space/.obsidian/workspace-mobile.json
 
 # Кэш плагинов (часто перегенерируется, может вызывать конфликты)
-.obsidian/plugins/*/hot-reload.json
+Space/.obsidian/plugins/*/hot-reload.json
 
 # Системные файлы macOS
 .DS_Store
